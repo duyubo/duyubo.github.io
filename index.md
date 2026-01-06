@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am Yubo Du, a Ph.D. graduate student researcher at University of Pittsburgh. I joined Dr. Jun Yang's lab since Jan 2023. My interests lie in defending the programs against memory safety-related bugs or exploitations such as Use-After-Free (UAF) detection and Out-of-Bounds (OOB) detection.  
+I am Yubo Du, a Ph.D. graduate student researcher at University of Pittsburgh. I joined Dr. Jun Yang's lab since Jan 2023. My interests lie in  memory safety, with a focus on improving the performance and memory efficiency of use-after-free (UAF) and out-of-bounds (OOB) detection/prevention in C/C++ programs. My research combines compiler instrumentation, runtime systems, and memory allocator design to make strong security guarantees practical for real-world software.
 
 ## Education
 
