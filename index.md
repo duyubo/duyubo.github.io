@@ -6,7 +6,7 @@ layout: homepage
 
 I am Yubo Du, a Ph.D. student researcher in Computer Science at the University of Pittsburgh. I joined Dr. Jun Yang’s lab in January 2023.
 
-My research interests lie in memory safety and systems security, with a focus on improving the performance and memory efficiency of use-after-free (UAF) and out-of-bounds (OOB) detection and prevention in C/C++ programs. My work combines compiler instrumentation, runtime systems, and memory allocator design to make strong security guarantees practical for real-world software. I am particularly interested in building low-overhead runtime sanitizers and compiler-assisted defenses that scale to large systems.
+My research interests lie in memory safety and systems security, with a focus on improving the performance and memory efficiency of use-after-free (UAF) and out-of-bounds (OOB) detection and prevention in C/C++ programs. My work combines compiler instrumentation, runtime systems, and memory allocator design to make strong security guarantees practical for real-world software. I am particularly interested in building low-overhead runtime sanitizers and compiler-assisted defenses that scale to large systems. More information can be found in my CV [<a href="files/Yubo_Du_CV.pdf">here</a>].
 
 ## Looking For Internship
 
