@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am Yubo Du, a Ph.D. graduate student researcher at University of Pittsburgh. I joined Dr. Jun Yang's lab since Jan 2023. My interests lie in  memory safety, with a focus on improving the performance and memory efficiency of use-after-free (UAF) and out-of-bounds (OOB) detection/prevention in C/C++ programs. My research combines compiler instrumentation, runtime systems, and memory allocator design to make strong security guarantees practical for real-world software.
+I am Yubo Du, a Ph.D. graduate student researcher at the University of Pittsburgh. I joined Dr. Jun Yang's lab in Jan 2023. My interests lie in  memory safety, with a focus on improving the performance and memory efficiency of use-after-free (UAF) and out-of-bounds (OOB) detection/prevention in C/C++ programs. My research combines compiler instrumentation, runtime systems, and memory allocator design to make strong security guarantees practical for real-world software. I am currently seeking research or systems internships where I can apply and extend these techniques in practical settings.
 
 ## Education
 
@@ -28,11 +28,15 @@ To be updated
 
 ## Publications
 
-Du, Yubo, et al. "RTT-UAF: Reuse Time Tracking for Use-After-Free Detection." Proceedings of the 38th ACM International Conference on Supercomputing. 2024.
+Yubo Du, Yanan Guo, Youtao Zhang, Jun Yang, “Fast Pointer Nullification for Use-After-Free Prevention,” To appear in Proceedings of the 34th Network and Distributed System Security Symposium, NDSS 2026, February 23 - 27, San Diego, CA, USA.
 
-Zhuang, Jinming, et al. "CHARM: C omposing H eterogeneous A ccele R ators for M atrix Multiply on Versal ACAP Architecture." Proceedings of the 2023 ACM/SIGDA International Symposium on Field Programmable Gate Arrays. 2023.
+Yubo Du, Youtao Zhang, Jun Yang, “RTT-UAF: Reuse Time Tracking for Use-After-Free Detection,” Proceedings of the 38th ACM International Conference on Supercomputing, ICS 2024, June 4 - 7, Kyoto, Japan.
+
+Jinming Zhuang, Jason Lau, Hanchen Ye, Zhuoping Yang, Yubo Du, Jack Lo, Kristof Denolf, Stephen Neuendorffer, Alex Jones, Jingtong Hu, Deming Chen, Jason Cong, Peipei Zhou, “CHARM: Composing Heterogeneous Accelerators for Matrix Multiply on Versal ACAP Architecture,” Proceedings of the 2023 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, FPGA 2023, February 12 – 14, Monterey, CA, USA.
 
 Du, Yubo. Progressively Stacking Differentiable Architecture Search (PS-DARTs) for Recurrent Neural Networks (RNNs). MS thesis. Vanderbilt University, 2021.
+
+Yanling Tian, Yubo Du, Qieshi Zhang, Jun Cheng, Zhuo Yang, “Depth Estimation for Advancing Intelligent Transport Systems Based on Self-Improving Pyramid Stereo Network,” IET Intelligent Transport Systems, ITS 2020.
 
 ## Talks & Seminars
 
