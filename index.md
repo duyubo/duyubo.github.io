@@ -4,13 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am Yubo Du, a Ph.D. student researcher in Computer Science at the University of Pittsburgh. I joined Dr. Jun Yang’s lab in January 2023.
+I am a Ph.D. student in Electrical and Computer Engineering at the University of Pittsburgh, specializing in compiler and runtime techniques for system performance optimization. My research focuses on reducing runtime and memory overhead in low-level systems through LLVM-based instrumentation, runtime design, and memory management techniques. I have published related work at top systems and security venues, including ICS and NDSS.
 
-My research interests lie in memory safety and systems security, with a focus on improving the performance and memory efficiency of use-after-free (UAF) and out-of-bounds (OOB) detection and prevention in C/C++ programs. My work combines compiler instrumentation, runtime systems, and memory allocator design to make strong security guarantees practical for real-world software. I am particularly interested in building low-overhead runtime sanitizers and compiler-assisted defenses that scale to large systems. More information can be found in my CV [<a href="files/Yubo_Du_CV.pdf">here</a>].
+In addition to systems research, I have hands-on experience building deep learning systems for real-world applications, including multimodal learning, EEG bio-signal processing, and neural architecture search. I am currently seeking internships or full-time opportunities in compilers, performance engineering, AI infrastructure, or large-scale systems optimization.
+
+More information can be found in my CV [<a href="files/Yubo_Du_CV.pdf">here</a>].
 
 ## Looking For Internship
 
-I am currently seeking research or systems internships where I can apply and extend my work on memory safety, compiler-based security mechanisms, and runtime systems. I am especially interested in opportunities that involve building and evaluating real systems, such as sanitizers, secure runtimes, or compiler and infrastructure tools.
+I am currently seeking internships in compilers, performance engineering, and AI infrastructure. I am particularly interested in opportunities involving compiler toolchains, runtime systems, and performance optimization for real-world workloads.
 
 
 
@@ -36,7 +38,7 @@ To be updated
 
 ## Publications
 
-Yubo Du, Yanan Guo, Youtao Zhang, Jun Yang, “Fast Pointer Nullification for Use-After-Free Prevention,” To appear in Proceedings of the 34th Network and Distributed System Security Symposium, NDSS 2026, February 23 - 27, San Diego, CA, USA.
+Yubo Du, Yanan Guo, Youtao Zhang, Jun Yang, “Fast Pointer Nullification for Use-After-Free Prevention,” Proceedings of the 34th Network and Distributed System Security Symposium, NDSS 2026, February 23 - 27, San Diego, CA, USA.
 
 Yubo Du, Youtao Zhang, Jun Yang, “RTT-UAF: Reuse Time Tracking for Use-After-Free Detection,” Proceedings of the 38th ACM International Conference on Supercomputing, ICS 2024, June 4 - 7, Kyoto, Japan.
 
