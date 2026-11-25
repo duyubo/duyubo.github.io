@@ -27,7 +27,7 @@ latest_posts:
 
 I am a Ph.D. candidate in Electrical and Computer Engineering at the [University of Pittsburgh](https://www.pitt.edu/), advised by Prof. Jun Yang. I expect to graduate in June 2027.
 
-I am also a research intern at [Carnegie Mellon University](https://www.cmu.edu/), working with Dr. Limin Jia. My research makes software secure against memory-safety vulnerabilities, and my work has been published at NDSS and ICS. More details are in my [CV](/assets/pdf/Yubo_Du_CV.pdf).
+I am also a research intern at [Carnegie Mellon University](https://www.cmu.edu/), working with Dr. Limin Jia. My research makes software secure against memory-safety vulnerabilities, and my work has been published at NDSS and ICS. More details are in my [CV](/assets/pdf/Yubo_Du_CV.pdf?v=2).
 
 ## education
 
