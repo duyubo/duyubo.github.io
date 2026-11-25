@@ -47,14 +47,14 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at the University 
 
 Deterministic defenses are reliable but expensive, and AI is efficient but unreliable. The two are complementary: AI decides where to focus, and deterministic methods decide what is true.
 
-### Part 1: Efficient Deterministic Defense
+### Efficient Deterministic Defense
 
 My published work makes deterministic defenses fast enough for real-world software:
 
 - **FPN: Fast Pointer Nullification for Use-After-Free Prevention** (NDSS 2026). A runtime defense that stops use-after-free attacks in deployed C/C++ software. FPN tracks pointers in groups by their locality while keeping protection exact, which reduces memory overhead from about 173% to about 8%. [[Paper]](https://www.ndss-symposium.org/wp-content/uploads/2026-f753-paper.pdf) [[Code]](https://github.com/duyubo/Fast-Pointer-Nullification-NDSS-2026)
 - **RTT-UAF: Reuse Time Tracking for Use-After-Free Detection** (ICS 2024). A sanitizer that finds use-after-free bugs during testing. RTT stores a small reuse count in the unused bits of each pointer, so no metadata needs to be propagated, which cuts runtime overhead by up to 7×. [[Paper]](https://doi.org/10.1145/3650200.3656606)
 
-### Part 2: Combining Deterministic Checking with AI
+### Combining Deterministic Checking with AI
 
 My ongoing work goes beyond pure deterministic defense and combines deterministic checking with AI:
 
