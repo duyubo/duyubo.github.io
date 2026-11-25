@@ -29,7 +29,7 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at the [University
 
 I am also a research intern at [Carnegie Mellon University](https://www.cmu.edu/), working with Dr. Limin Jia. My research makes software secure against memory-safety vulnerabilities, and my work has been published at NDSS and ICS. More details are in my [CV](/assets/pdf/Yubo_Du_CV.pdf).
 
-## Education
+## education
 
 - **Ph.D., Electrical and Computer Engineering**, University of Pittsburgh, Jan. 2022 – present. Advisor: Prof. Jun Yang
 - **M.S., Computer Science**, Vanderbilt University, Jan. 2020 – Dec. 2021. Advisor: Prof. Gautam Biswas
@@ -39,7 +39,7 @@ I am also a research intern at [Carnegie Mellon University](https://www.cmu.edu/
 
 {% include news.liquid limit=true %}
 
-## Research
+## research
 
 The goal of my research is to make software secure against memory-safety vulnerabilities by combining the guarantees of deterministic defenses with the efficiency of AI. Deterministic defenses are reliable but expensive, and AI is efficient but unreliable. The two are complementary: AI decides where to focus, and deterministic methods decide what is true. My published work makes deterministic defenses fast enough for real-world software:
 
