@@ -26,6 +26,7 @@ latest_posts:
 <style>
   @media (min-width: 576px) {
     .profile { width: 22% !important; }
+    .profile .more-info { font-size: 0.8rem; }
   }
 </style>
 
