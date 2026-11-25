@@ -29,8 +29,8 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at the University 
 
 ## Education
 
-- **Ph.D., Electrical and Computer Engineering**, University of Pittsburgh, Jan. 2022 – present. Advisor: Prof. Jun Yang
-- **M.S., Computer Science**, Vanderbilt University, Jan. 2020 – Dec. 2021. Advisor: Prof. Gautam Biswas
+- **Ph.D., Electrical and Computer Engineering**, University of Pittsburgh, Jan. 2022 – present
+- **M.S., Computer Science**, Vanderbilt University, Jan. 2020 – Dec. 2021
 - **B.S., Physics**, University of Science and Technology of China, Aug. 2014 – Jun. 2018
 
 <h2><a href="/news/" style="color: inherit">News</a></h2>
