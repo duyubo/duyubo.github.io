@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am on the 2026–2027 academic job market. My [CV](/assets/pdf/Yubo_Du_CV.pdf?v=2) is available here.
+I am on the 2026–2027 academic job market. My [CV](/assets/pdf/Yubo_Du_CV.pdf?v=3) is available here.
