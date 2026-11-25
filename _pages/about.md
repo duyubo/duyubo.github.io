@@ -25,9 +25,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a Ph.D. candidate in Electrical and Computer Engineering at the University of Pittsburgh, advised by Prof. [Jun Yang](https://sites.pitt.edu/~juy9/). I expect to graduate in June 2027.
-
-I am also a research intern at Carnegie Mellon University, working with Dr. [Limin Jia](https://www.andrew.cmu.edu/user/liminjia/). The goal of my research is to make software secure against memory-safety vulnerabilities by combining the guarantees of deterministic defenses with the efficiency of AI.
+I am a Ph.D. candidate in Electrical and Computer Engineering at the University of Pittsburgh, advised by Prof. [Jun Yang](https://sites.pitt.edu/~juy9/). I expect to graduate in June 2027. I am also a research intern at Carnegie Mellon University, working with Dr. [Limin Jia](https://www.andrew.cmu.edu/user/liminjia/). The goal of my research is to make software secure against memory-safety vulnerabilities by combining the guarantees of deterministic defenses with the efficiency of AI.
 
 ## Education
 
