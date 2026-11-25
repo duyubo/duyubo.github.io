@@ -33,6 +33,12 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at the University 
 - **M.S., Computer Science**, Vanderbilt University, Jan. 2020 – Dec. 2021
 - **B.S., Physics**, University of Science and Technology of China, Aug. 2014 – Jun. 2018
 
+## Work Experience
+
+- **Research Intern**, Carnegie Mellon University, Aug. 2026 – present
+- **Graduate Research Assistant**, University of Pittsburgh, Jan. 2022 – present
+- **Research Assistant**, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Aug. 2018 – Apr. 2019
+
 <h2><a href="/news/" style="color: inherit">News</a></h2>
 
 {% include news.liquid limit=true %}
