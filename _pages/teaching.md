@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Teaching and mentoring at the University of Pittsburgh and Carnegie Mellon University.
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 ### Teaching Assistant, University of Pittsburgh
