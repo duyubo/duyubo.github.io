@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Teaching at the University of Pittsburgh.
 nav: true
 nav_order: 4
