@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Benedum Hall</p>
     <p>University of Pittsburgh</p>
-    <p>Pittsburgh, PA 15261</p>
+    <p>Pittsburgh, PA</p>
 
 selected_papers: false # selected papers are placed inside the page body below
 social: true # includes social icons at the bottom of the page
