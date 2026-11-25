@@ -19,5 +19,5 @@ nav_order: 4
 
 ### Student Mentoring
 
-- **Rui Wang**, Ph.D. student, Carnegie Mellon University (Aug. 2026 – present)
-- **Ruizhi Zhu**, Ph.D. student, University of Pittsburgh (Sep. 2024 – Jan. 2025)
+- Ph.D. student, Carnegie Mellon University (Aug. 2026 – present)
+- Ph.D. student, University of Pittsburgh (Sep. 2024 – Jan. 2025)
