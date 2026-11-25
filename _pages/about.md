@@ -33,6 +33,6 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at the [University
 - **Diagnostic vulnerability detection.** I build sanitizers that report not only where an error occurs but also its root cause, so that developers and AI repair tools can fix it directly (Witness, under review).
 - **Verifying the reasoning of AI (ongoing, at CMU).** I apply the idea behind sanitizers to check each step of an LLM's vulnerability analysis against real program behavior, and to find which code patterns mislead it.
 
-Looking ahead, I plan to work on AI-guided selective protection for deployed software, safe migration to memory-safe languages such as Rust, and deterministic checking of AI-generated code. You can read more in my [research statement](/assets/pdf/Yubo_Du_Research_Statement.pdf), and in my [CV](/assets/pdf/Yubo_Du_CV.pdf).
+Looking ahead, I plan to work on AI-guided selective protection for deployed software, safe migration to memory-safe languages such as Rust, and deterministic checking of AI-generated code. You can read more in my [research statement](/assets/pdf/Yubo_Du_Research_Statement.pdf) and [CV](/assets/pdf/Yubo_Du_CV.pdf).
 
 Before my Ph.D., I received an M.S. in Computer Science from [Vanderbilt University](https://www.vanderbilt.edu/) and a B.S. in Physics from the [University of Science and Technology of China](https://en.ustc.edu.cn/).
