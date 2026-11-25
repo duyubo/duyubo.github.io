@@ -43,7 +43,7 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at the University 
 
 - **Research Intern**, Carnegie Mellon University, Aug. 2026 – present
 - **Graduate Research Assistant**, University of Pittsburgh, Jan. 2022 – present
-- **Research Assistant**, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Aug. 2018 – Apr. 2019
+- **Research Assistant**, Shenzhen Institutes of Advanced Technology,<br>Chinese Academy of Sciences, Aug. 2018 – Apr. 2019
 
 <h2><a href="/news/" style="color: inherit">News</a></h2>
 
