@@ -4,5 +4,5 @@ Personal academic homepage of Yubo Du, built with [al-folio](https://github.com/
 
 - Edit the bio, research and education in `_pages/about.md`, and news in `_news/`.
 - Publications come from `_bibliography/papers.bib`.
-- Replace `assets/pdf/YuboDu_CV.pdf` to update the CV.
+- Replace `assets/pdf/Yubo_Du_CV_2026.pdf` to update the CV.
 - Every push to `main` builds the site with GitHub Actions and deploys it to the `gh-pages` branch.
